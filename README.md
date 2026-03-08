@@ -10,5 +10,5 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br><br>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nihshank_?theme=dark&border=0&font=JetBrains%20Mono&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/Nihshank_?theme=dark&border=0&font=JetBrains%20Mono&ext=heatmap" width="80%" />
 </p>
